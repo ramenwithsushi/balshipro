@@ -1,0 +1,2 @@
+streamlit run app.py
+& .\.venv\Scripts\python.exe publisher.py

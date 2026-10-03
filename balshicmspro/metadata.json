@@ -1,0 +1,6 @@
+{
+  "name": "Balshi Instagram CMS",
+  "description": "Local Python CMS and automated Instagram publisher with real-time graphic generation, SQLite WAL database, and Meta Graph API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
